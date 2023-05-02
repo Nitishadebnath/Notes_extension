@@ -1,0 +1,11 @@
+{
+  "name": "Note Taking Extension",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "A simple note taking extension",
+  "permissions": ["storage"],
+  "action": {
+    "title": "Take a note",
+    "popup": "popup.html"
+  }
+}
